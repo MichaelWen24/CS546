@@ -1,0 +1,16 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Yining Wen 10438406",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.6",
+    "uuid": "^3.3.2"
+  }
+}

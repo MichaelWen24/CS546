@@ -1,0 +1,78 @@
+body {
+    font-size: 14pt;
+	background: #dedede;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+head {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+	max-width: 80%;
+	margin: auto;
+}
+
+header {
+    border-bottom: 2px solid #afafaf;
+    margin: auto;
+    max-width: 80%;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: rgb(44, 43, 43);
+	margin-bottom: 5px;
+}
+
+h1 {
+    color: blue;
+    font-size: 24pt;
+    margin: auto;
+    max-width: 80%;
+}
+
+table{
+    margin: auto;
+    text-align: center;
+}
+
+p {
+	font-size: 12pt;
+	line-height: 1.5;
+}
+
+label {
+    font-size: 14pt;
+    
+}
+
+.error{
+    color: green;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+footer  {
+	margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.logout-form {
+	text-align: right;
+	vertical-align: bottom;
+}
+
+.user-info {
+	width: 100%;
+	border: 0px;
+}
+
+.user-info th:nth-child(1) {
+	font-size: 20pt;
+    text-align: left;
+}
